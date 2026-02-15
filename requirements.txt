@@ -1,0 +1,7 @@
+nnunetv2
+nibabel
+numpy
+pandas
+scipy
+opencv-python
+matplotlib

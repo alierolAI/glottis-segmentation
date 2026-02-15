@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Envs
+.venv/
+venv/
+.env
+
+# Data / outputs
+data/
+datasets/
+outputs/
+runs/
+logs/
+
+# Models / weights
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.pkl
+
+# nnU-Net folders (bunlar repo'yu şişirir)
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/
